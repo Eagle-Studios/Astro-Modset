@@ -62,9 +62,6 @@ Salmon Headgear Accesories						https://steamcommunity.com/sharedfiles/filedetai
 Larger ACE Nightvision Border					https://steamcommunity.com/sharedfiles/filedetails/?id=2290589496
 Larger ACE Nightvision Border RHS Compat		https://steamcommunity.com/sharedfiles/filedetails/?id=2290612514
 JSRS											https://steamcommunity.com/sharedfiles/filedetails/?id=861133494
-JSRS AFRF										https://steamcommunity.com/sharedfiles/filedetails/?id=945476727
-JSRS USAF										https://steamcommunity.com/sharedfiles/filedetails/?id=1180533757
-JSRS GREF										https://steamcommunity.com/sharedfiles/filedetails/?id=1180534892
-JSRS SAF										https://steamcommunity.com/sharedfiles/filedetails/?id=1486541773
+JSRS RHS AiO									https://steamcommunity.com/sharedfiles/filedetails/?id=2068033599
 dzn Weapon Holders Carryable					https://steamcommunity.com/sharedfiles/filedetails/?id=1418108437
 Helicopter Dust Effect							https://steamcommunity.com/sharedfiles/filedetails/?id=1537745369
