@@ -11,3 +11,5 @@ Zeus is the *full* modset to be loaded by Zeus, Server.
 *Note that I have not included Maps into these modsets; they will have to be added when needed. 
 
 Modsets are avilable here - [Modsets]()
+
+Added Campaign Maps / Enviroment Addons

@@ -1,0 +1,67 @@
+Briefing:
+5th SOR have been called in for a joint NATO operation. 
+Eduardo Sonita Rodríguez (ESR) is an international Drug Lord, however recently he has stepped up his game into Narcoterrorism. 
+You are heading to the Swamps of Tria, these swamps are critical to ESR's empire. 
+Local forces are unable to reach the area due to its varying weather and boggy marsh land. 
+You are being HALO dropped into the area.
+
+Make sure your in-game music is on, if not you will miss out on the custom music!
+
+instruktáž:
+5. SOR byli povoláni ke spolecné operaci NATO.
+Eduardo Sonita Rodríguez (ESR) je mezinárodní drogový lord, ale v poslední dobe zintenzivnil svoji hru narcoterorismu.
+Míríte do Bažin Tria, tyto bažiny jsou pro ríši ESR zásadní.
+Místní síly nejsou schopny dosáhnout oblasti kvuli menícímu se pocasí a bažinaté bažine.
+Dostáváte HALO do oblasti.
+
+Ujistete se, že je vaše hudba ve hre zapnutá, pokud ne, prijdete o vlastní hudbu!
+
+Objectives:
+1. HALO drop into the area
+2. <marker name='RV'>Reorganize at RV point [Reorganizujte v bode RV]</marker>
+3. <marker name='3'>Secure Transport; head to the Cartels' nearby helipad [Bezpecná preprava; jdete na nedaleký helipad Kartelu]</marker>
+4. Collect Intel; This should provide you with information on the various operations in the area. [Sbírat Intel; To by vám melo poskytnout informace o ruzných operacích v této oblasti.]
+5. Once you have collected all 5 pieces of Intel, RV at 081 152. Take a seat next to the fire... [5. Jakmile nasbíráte všech 5 kusu Intel, RV na 081 152. Posadte se vedle ohne ...]
+
+
+Mission Notes [Poznámky k misi]:
+There is an arsenal at RV point.
+V RV bode je arzenál.
+
+Selected roles are assigned roles, please do not drop your equipment to give to other people.
+Vybraným rolím jsou prirazeny role, prosím, nevyhazujte své vybavení, abyste je mohli dát jiným lidem.
+
+The Arsenal contains attachments and equipment etc, Weapons have not been provided; for gameplay reasons.
+Arsenal obsahuje príslušenství a vybavení atd. Zbrane nebyly poskytnuty; z herních duvodu.
+
+Pilots are to be on standby for CAS support.
+Piloti mají být v pohotovosti ohledne podpory CAS.
+
+Zeus are present to provide support when needed. (Deleting previously cleared areas & helping with glitches)
+Zeus je prítomen, aby poskytl podporu v prípade potreby. (Odstranení dríve vycištených oblastí a pomoc s poruchami)
+
+Zeus Notes [Zeus Poznámky]:
+Please do not reveal locations and AI positions. 
+Please only control AI when needed, most have set waypoints for a reason. 
+Please make sure CAS is only used in limited bursts, and they are flying between the designated areas. 
+Intel has already been placed, please do not try to make new intel or add to the story; as this cannot be changed on future missions. 
+Key areas have AI hidden, these is not a bug! Do not attempt to unhide AI, the mission will do this when players are within a set distance. 
+AI have been given custom kits, please keep to these; it is for persitency purposes.
+I have provided templates for you to copy, should you feel QRF to a location is needed.
+Players do not need to be told locations, all information they need is revealed via pre-placed intel.
+If players need a supply drop, move the provided supply box (At templates) to their position. (Do not provide a Full Arsenal!)
+
+Neprozrazujte prosím umístení a pozice AI.
+Ovládejte prosím AI pouze v prípade potreby, vetšina má z nejakého duvodu nastavené body na trase.
+Ujistete se, že se CAS používá pouze v omezených dávkách a že letí mezi urcenými oblastmi.
+Intel již byl umísten, prosím, nepokoušejte se vytváret nové Intel nebo pridat do príbehu; protože to nelze na budoucích misích zmenit.
+Klícové oblasti mají AI skrytou, nejde o chybu! Nepokoušejte se odhalit AI, mise to udelá, když jsou hráci ve stanovené vzdálenosti.
+AI dostaly vlastní sady, tyto prosím dodržujte; je to pro úcely persitence.
+Poskytl jsem vám šablony ke kopírování, pokud máte pocit, že je potreba QRF na místo.
+Hráci nemusí být informováni o umístení, všechny informace, které potrebují, jsou odhaleny prostrednictvím predem umístených informací.
+Pokud hráci potrebují pokles zásob, presunte dodaný box se zásobami (u šablon) na svou pozici. (Neposkytujte plný arzenál!)
+
+
+Dev Notes [Dev Poznámky]:
+I have left my role, and GameMaster Module inside the mission file; should there be any complications during your mission
+Nechal jsem svou roli a modul GameMaster uvnitr souboru mise; pokud by se behem vaší mise vyskytly nejaké komplikace
