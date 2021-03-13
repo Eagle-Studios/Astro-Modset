@@ -12,4 +12,10 @@ Zeus is the *full* modset to be loaded by Zeus, Server.
 
 Modsets are avilable here - [Modsets]()
 
+<<<<<<< HEAD
 Added Campaign Maps / Enviroment Addons
+=======
+Changes - 26/02/2021
+Added - EAG_Core (This is my personal mod, adds mostly eden features) in this case it was to add a C130J that didnt have USAF all over it. 
+Removed - 
+>>>>>>> 19f4cb4f42b8f49967e6b0d88952cdb1f8cf2390
